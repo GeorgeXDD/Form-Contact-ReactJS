@@ -1,0 +1,31 @@
+body{
+    background-image:url(background.jpg);
+    background-color: rgb(67, 106, 190);
+    margin:0px;
+	padding: 0px;
+	background-color: #2e343c;
+	box-shadow:inset 2px 2px 100px rgba(0,0,0,0.2);
+}
+
+.form-body{
+    text-align: left;
+}
+
+#cent {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.centimg{
+    padding-bottom: 50px;
+    padding-top: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.card{
+    box-shadow: 10px 10px lightblue;
+}
